@@ -1,7 +1,7 @@
 {
   "name": "angular-local-storage",
   "version": "0.1.5",
-  "homepage": "http://gregpike.net/demos/angular-local-storage/demo.html",
+  "homepage": "https://github.com/chence/angular-local-storage/blob/master/README.md",
   "authors": [
     "grevory <greg@gregpike.ca>"
   ],
@@ -25,7 +25,7 @@
     "Gruntfile.js"
   ],
   "devDependencies": {
-    "angularjs": "*",
+    "angular": "*",
     "angular-mocks": "~1.2.1"
   }
 }
